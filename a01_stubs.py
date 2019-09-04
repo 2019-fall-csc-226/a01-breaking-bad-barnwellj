@@ -59,6 +59,7 @@ else:
 
 ######################################################################
 # (Required) Task 2# TODO Ask the user for their friend's birth year
+#Enter Friends name here Jesse Walker, TA
 
 
 # TODO Similar to above, check your friend's year using if conditionals, and print the correct animal for that year
