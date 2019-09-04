@@ -31,7 +31,7 @@ elif birth_year == "2001":
 elif birth_year == "2002":
     print("Hey!...is for Horses!")
 elif birth_year == "2003":
-    print("")
+    print("You were born in the year of the Goat. Do you like metal?")
 elif birth_year == "2004":
     print("Year of the Monkey! You must like bananas!")
 elif birth_year == "2005":
@@ -41,7 +41,7 @@ elif birth_year == "2006":
 elif birth_year == "2007":
     print("What a Hog!")
 elif birth_year == "2008":
-    print("AHHH RATS!")
+    print("AHHH RATS! You were born in the year of the rat!")
 elif birth_year == "2009":
     print("You probably travel in a heard, year of the Ox!")
 elif birth_year == "2010":
@@ -59,7 +59,7 @@ else:
 
 ######################################################################
 # (Required) Task 2# TODO Ask the user for their friend's birth year
-#Enter Friends name here Jesse Walker, TA
+# I had  Jesse Walker(TA) run this code, and he was born in the same year that I was (1999), the year of the rabbit
 
 
 # TODO Similar to above, check your friend's year using if conditionals, and print the correct animal for that year
